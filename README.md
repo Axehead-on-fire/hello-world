@@ -1,2 +1,3 @@
 # hello-world
-a short description
+
+This description is far better suited. Applause. 
